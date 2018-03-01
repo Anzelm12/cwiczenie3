@@ -1,0 +1,25 @@
+html, body {
+	background-color: #878787;
+	color: #352251;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+h1 {
+	color: #128156;
+	text-shadow: 1px 1px 0 rgba(0,0,0,0.5);
+}
+
+.komiksy {
+	color: red;
+	font-family: 'Itim', cursive;
+}
+
+.opis {
+	color: yellow;
+	font-family: 'Caveat Brush', cursive;
+}
+
+
+
